@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Markdown"
 date:   2020-07-11 19:33:13 +0530
 categories: jekyll update
